@@ -1,3 +1,6 @@
 [submodule "austinma"]
 	path = austinma
 	url = git@github.com:armatthews/sp2015.11-731.git
+[submodule "jhong"]
+	path = jhong
+	url = git@github.com:junks/sp2015.11-731.git
