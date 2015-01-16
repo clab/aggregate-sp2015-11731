@@ -4,3 +4,6 @@
 [submodule "jhong"]
 	path = jhong
 	url = git@github.com:junks/sp2015.11-731.git
+[submodule "eschling"]
+	path = eschling
+	url = git@github.com:eschling/sp2015.11-731.git
