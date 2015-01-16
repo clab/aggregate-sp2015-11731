@@ -7,3 +7,6 @@
 [submodule "eschling"]
 	path = eschling
 	url = git@github.com:eschling/sp2015.11-731.git
+[submodule "cnakos"]
+	path = cnakos
+	url = git@github.com:cnakos/sp2015.11-731.git
