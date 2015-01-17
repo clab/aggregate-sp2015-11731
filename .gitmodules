@@ -13,3 +13,6 @@
 [submodule "vrobison"]
 	path = vrobison
 	url = git@github.com:vrobison/sp2015.11-731.git
+[submodule "jiesiz"]
+	path = jiesiz
+	url = git@github.com:manjusaka077/sp2015.11-731.git
