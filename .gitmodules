@@ -19,3 +19,6 @@
 [submodule "ljmartin"]
 	path = ljmartin
 	url = git@github.com:ladognome/sp2015.11-731.git
+[submodule "kkawakami"]
+	path = kkawakami
+	url = git@github.com:k-kawakami/sp2015.11-731.git
