@@ -28,3 +28,6 @@
 [submodule "haoz1"]
 	path = haoz1
 	url = git@github.com:lelouchmatlab/sp2015.11-731.git
+[submodule "yohanj"]
+	path = yohanj
+	url = git@github.com:zukjimote/sp2015.11-731.git
