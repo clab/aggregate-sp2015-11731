@@ -40,3 +40,6 @@
 [submodule "pengtaox"]
 	path = pengtaox
 	url = git@github.com:pengtaoxie/sp2015.11-731.git
+[submodule "chuchenl"]
+	path = chuchenl
+	url = git@github.com:as1986/sp2015.11-731.git
