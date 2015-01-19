@@ -31,3 +31,6 @@
 [submodule "yohanj"]
 	path = yohanj
 	url = git@github.com:zukjimote/sp2015.11-731.git
+[submodule "vcirik"]
+	path = vcirik
+	url = git@github.com:wolet/sp2015.11-731.git
