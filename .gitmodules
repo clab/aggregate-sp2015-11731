@@ -28,3 +28,6 @@
 [submodule "vcirik"]
 	path = vcirik
 	url = git@github.com:wolet/sp2015.11-731.git
+[submodule "junkih"]
+	path = junkih
+	url = git@github.com:junks/sp2015.11-731.git
